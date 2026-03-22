@@ -412,6 +412,22 @@
     [
       "29f6dc2f-2617-4240-af0b-b80c2d3703fb",
       "Root"
+    ],
+    [
+      "594e9a80-7f79-4bae-904e-572615298221",
+      "Power Supply"
+    ],
+    [
+      "06ed5d67-bf92-4a74-a0fa-2ec2c08f32bb",
+      "Drive Circuit"
+    ],
+    [
+      "f65b1c02-72e5-47d2-bf4c-816227fac6df",
+      "Motor Control"
+    ],
+    [
+      "9889f4a2-3e9c-4cae-b4c9-f9db6998f9e0",
+      "Sense Circuit"
     ]
   ],
   "text_variables": {}
