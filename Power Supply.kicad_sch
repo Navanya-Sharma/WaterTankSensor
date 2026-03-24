@@ -1273,7 +1273,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 100.33 82.55 270)
+		(at 100.33 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1281,7 +1281,7 @@
 		(dnp no)
 		(uuid "05d1e6d4-71a4-4a14-b303-fde7524986aa")
 		(property "Reference" "#PWR01"
-			(at 96.52 82.55 0)
+			(at 100.33 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1290,7 +1290,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 99.06 84.836 90)
+			(at 100.33 78.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1508,7 +1508,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "240 ohm"
+		(property "Value" "240E/.125W"
 			(at 139.7 88.8999 0)
 			(effects
 				(font
@@ -1578,7 +1578,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "720"
+		(property "Value" "720E/.125W"
 			(at 139.7 102.8699 0)
 			(effects
 				(font
@@ -1648,7 +1648,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1 uF"
+		(property "Value" "10uF/30V"
 			(at 110.49 95.3769 0)
 			(effects
 				(font
@@ -1718,7 +1718,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.0 uF"
+		(property "Value" "1uF/30V"
 			(at 171.45 96.6469 0)
 			(effects
 				(font
@@ -1931,16 +1931,15 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 168.91 82.55 270)
+		(at 168.91 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "fd76e40f-572f-4a9f-9110-c07d8d898289")
 		(property "Reference" "#PWR02"
-			(at 165.1 82.55 0)
+			(at 168.91 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1949,7 +1948,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 172.72 82.5499 90)
+			(at 169.672 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2015,7 +2014,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10 uF"
+		(property "Value" "10uF/30V"
 			(at 158.75 101.7269 0)
 			(effects
 				(font
